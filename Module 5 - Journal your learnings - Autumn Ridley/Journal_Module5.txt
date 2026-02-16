@@ -1,0 +1,17 @@
+Module 5 Journal - Reflections on Modules 4 & 5
+
+Methodology:
+I chose a typed format for ease of editing and clarity. This allows me to quickly revise and reference my notes.
+
+Key Learnings:
+- Pull requests are critical for collaborative workflow.
+- Merge conflicts are normal and require careful resolution.
+- Branch management is essential to prevent overwriting others’ work.
+
+Challenges:
+- Understanding rebase conflicts took some trial and error.
+- Remembering to stage resolved files before continuing a rebase was tricky at first.
+
+Future Reference:
+- Always check the branch before pushing.
+- Keep a folder for assignment documentation to stay organized.
